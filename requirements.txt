@@ -1,0 +1,7 @@
+numpy==1.16.1
+matplotlib
+tensorflow
+keras
+scikit-learn
+bokeh
+pyDOE
